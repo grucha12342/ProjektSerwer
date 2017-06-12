@@ -1,0 +1,49 @@
+C:\Users\Grusza\Documents\Visual Studio 2015\Projects\selfhost\C#\SignalRSelfHost\bin\Debug\SignalRSelfHost.exe.config
+C:\Users\Grusza\Documents\Visual Studio 2015\Projects\selfhost\C#\SignalRSelfHost\bin\Debug\SignalRSelfHost.exe
+C:\Users\Grusza\Documents\Visual Studio 2015\Projects\selfhost\C#\SignalRSelfHost\bin\Debug\SignalRSelfHost.pdb
+C:\Users\Grusza\Documents\Visual Studio 2015\Projects\selfhost\C#\SignalRSelfHost\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Grusza\Documents\Visual Studio 2015\Projects\selfhost\C#\SignalRSelfHost\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Users\Grusza\Documents\Visual Studio 2015\Projects\selfhost\C#\SignalRSelfHost\bin\Debug\Microsoft.Owin.Diagnostics.dll
+C:\Users\Grusza\Documents\Visual Studio 2015\Projects\selfhost\C#\SignalRSelfHost\bin\Debug\Microsoft.Owin.dll
+C:\Users\Grusza\Documents\Visual Studio 2015\Projects\selfhost\C#\SignalRSelfHost\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Grusza\Documents\Visual Studio 2015\Projects\selfhost\C#\SignalRSelfHost\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\Grusza\Documents\Visual Studio 2015\Projects\selfhost\C#\SignalRSelfHost\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Grusza\Documents\Visual Studio 2015\Projects\selfhost\C#\SignalRSelfHost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Grusza\Documents\Visual Studio 2015\Projects\selfhost\C#\SignalRSelfHost\bin\Debug\Owin.dll
+C:\Users\Grusza\Documents\Visual Studio 2015\Projects\selfhost\C#\SignalRSelfHost\bin\Debug\System.Web.Cors.dll
+C:\Users\Grusza\Documents\Visual Studio 2015\Projects\selfhost\C#\SignalRSelfHost\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Grusza\Documents\Visual Studio 2015\Projects\selfhost\C#\SignalRSelfHost\bin\Debug\Microsoft.Owin.xml
+C:\Users\Grusza\Documents\Visual Studio 2015\Projects\selfhost\C#\SignalRSelfHost\bin\Debug\Microsoft.Owin.Cors.xml
+C:\Users\Grusza\Documents\Visual Studio 2015\Projects\selfhost\C#\SignalRSelfHost\bin\Debug\Microsoft.Owin.Diagnostics.xml
+C:\Users\Grusza\Documents\Visual Studio 2015\Projects\selfhost\C#\SignalRSelfHost\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\Grusza\Documents\Visual Studio 2015\Projects\selfhost\C#\SignalRSelfHost\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\Grusza\Documents\Visual Studio 2015\Projects\selfhost\C#\SignalRSelfHost\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Grusza\Documents\Visual Studio 2015\Projects\selfhost\C#\SignalRSelfHost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Grusza\Documents\Visual Studio 2015\Projects\selfhost\C#\SignalRSelfHost\obj\Debug\SignalRSelfHost.csprojResolveAssemblyReference.cache
+C:\Users\Grusza\Documents\Visual Studio 2015\Projects\selfhost\C#\SignalRSelfHost\obj\Debug\SignalRSelfHost.exe
+C:\Users\Grusza\Documents\Visual Studio 2015\Projects\selfhost\C#\SignalRSelfHost\obj\Debug\SignalRSelfHost.pdb
+C:\Users\Grusza\Documents\serverSignalR\serverSignalR\SignalRSelfHost\bin\Debug\SignalRSelfHost.exe.config
+C:\Users\Grusza\Documents\serverSignalR\serverSignalR\SignalRSelfHost\obj\Debug\SignalRSelfHost.exe
+C:\Users\Grusza\Documents\serverSignalR\serverSignalR\SignalRSelfHost\obj\Debug\SignalRSelfHost.pdb
+C:\Users\Grusza\Documents\serverSignalR\serverSignalR\SignalRSelfHost\bin\Debug\SignalRSelfHost.exe
+C:\Users\Grusza\Documents\serverSignalR\serverSignalR\SignalRSelfHost\bin\Debug\SignalRSelfHost.pdb
+C:\Users\Grusza\Documents\serverSignalR\serverSignalR\SignalRSelfHost\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Grusza\Documents\serverSignalR\serverSignalR\SignalRSelfHost\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Users\Grusza\Documents\serverSignalR\serverSignalR\SignalRSelfHost\bin\Debug\Microsoft.Owin.Diagnostics.dll
+C:\Users\Grusza\Documents\serverSignalR\serverSignalR\SignalRSelfHost\bin\Debug\Microsoft.Owin.dll
+C:\Users\Grusza\Documents\serverSignalR\serverSignalR\SignalRSelfHost\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Grusza\Documents\serverSignalR\serverSignalR\SignalRSelfHost\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\Grusza\Documents\serverSignalR\serverSignalR\SignalRSelfHost\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Grusza\Documents\serverSignalR\serverSignalR\SignalRSelfHost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Grusza\Documents\serverSignalR\serverSignalR\SignalRSelfHost\bin\Debug\Owin.dll
+C:\Users\Grusza\Documents\serverSignalR\serverSignalR\SignalRSelfHost\bin\Debug\System.Web.Cors.dll
+C:\Users\Grusza\Documents\serverSignalR\serverSignalR\SignalRSelfHost\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Grusza\Documents\serverSignalR\serverSignalR\SignalRSelfHost\bin\Debug\Microsoft.Owin.xml
+C:\Users\Grusza\Documents\serverSignalR\serverSignalR\SignalRSelfHost\bin\Debug\Microsoft.Owin.Cors.xml
+C:\Users\Grusza\Documents\serverSignalR\serverSignalR\SignalRSelfHost\bin\Debug\Microsoft.Owin.Diagnostics.xml
+C:\Users\Grusza\Documents\serverSignalR\serverSignalR\SignalRSelfHost\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\Grusza\Documents\serverSignalR\serverSignalR\SignalRSelfHost\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\Grusza\Documents\serverSignalR\serverSignalR\SignalRSelfHost\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Grusza\Documents\serverSignalR\serverSignalR\SignalRSelfHost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Grusza\Documents\serverSignalR\serverSignalR\SignalRSelfHost\obj\Debug\SignalRSelfHost.csprojResolveAssemblyReference.cache
+C:\Users\Grusza\Documents\serverSignalR\serverSignalR\SignalRSelfHost\bin\Debug\MySql.Data.dll
